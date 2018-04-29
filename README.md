@@ -6,7 +6,7 @@ This app demonstrates how to integrate React Native & GraphQL using [AppSync](ht
 To view the tutorial for how to build this app, see both [part 1](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511) and [part 2](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569) on Tuts Plus. Also follow the instruction below to setup environment for using template.
 
 ![React Native AppSync](https://i.imgur.com/X3zmWGS.jpg)
-![react_native](https://github.com/Luffyingw/bigbang-mobile/raw/master/assets/iOS.gif）
+![ios-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif)
 
 ### Environment setup
 1. install react-native-cli@2.0.1
