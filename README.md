@@ -11,8 +11,8 @@ To view the tutorial for how to build this app, see both [part 1](https://code.t
 1. install react-native-cli@2.0.1
 2. install node@latest (mine is v8.11.1). It comes with npm (mine is 5.6.0)
 3. install git
-4. install vscode IDE (with powerful extensions and all-in-one view. debuggable in IDE instead of browser. Debugger runner integrated with react-native)
-5. have aws account.
+4. install vscode IDE (with powerful extensions and all-in-one view. debuggable in IDE instead of browser. Debugger runner integrated with react-native). Install "React-Native tools" extension.
+5. Have an aws account.
 
 
 ### To get started    
