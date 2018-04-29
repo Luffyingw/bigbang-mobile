@@ -12,7 +12,7 @@ To view the tutorial for how to build this app, see both [part 1](https://code.t
 1. clone project    
 
 ```
-git clone https://github.com/dabit3/appsync-graphql-cities.git
+git clone git@github.com:Luffyingw/bigbang-mobile.git
 ```
 
 2. change into directory and install dependencies    
