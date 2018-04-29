@@ -1,5 +1,5 @@
 {
-  "name": "RNCities",
+  "name": "bigbang-mobile",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,6 +8,9 @@
     "storybook": "storybook start -p 7007"
   },
   "dependencies": {
+    "color": "1.0.3",
+    "lodash": "4.13.1",
+    "moment": "2.13.0",
     "aws-appsync": "^1.0.11",
     "aws-appsync-react": "^1.0.5",
     "aws-sdk": "^2.190.0",
@@ -15,6 +18,7 @@
     "react": "16.2.0",
     "react-apollo": "^2.0.4",
     "react-native": "0.53.0",
+    "native-base": "2.4.2",
     "react-native-elements": "^0.19.0",
     "react-native-vector-icons": "^4.5.0",
     "react-navigation": "^1.0.0",

@@ -1,5 +1,6 @@
 import React from 'react'
 import Tabs from './src/Tabs'
+import Setup from "./componentLibrary/boot/setup";
 
 import AWSAppSyncClient from "aws-appsync";
 import { Rehydrated } from 'aws-appsync-react';
@@ -25,3 +26,9 @@ const WithProvider = () => (
 );
 
 export default WithProvider
+
+// export default class App extends React.Component {
+//   render() {
+//     return <Setup />;
+//   }
+// }
